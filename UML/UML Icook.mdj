@@ -7009,7 +7009,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Icook Front End",
+											"text": "Ca sử dụng gói chức năng khách hàng",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -21335,7 +21335,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Icook Front End",
+					"name": "Ca sử dụng gói chức năng khách hàng",
 					"visibility": "public"
 				},
 				{
@@ -23223,7 +23223,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Icook Back End",
+											"text": "Ca sử dụng gói chức năng quản trị",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -35569,7 +35569,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Icook Back End",
+					"name": "Ca sử dụng gói chức năng quản trị",
 					"visibility": "public"
 				},
 				{
